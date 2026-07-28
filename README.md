@@ -7,8 +7,8 @@ Dự án cung cấp một khung làm việc (framework) tự trị để xử l�
 
 ## Cấu trúc dự án
 - `q_bms_engine.py`: Bộ não xử lý logic của hệ thống.
-- `config.json`: File cấu hình thông số kỹ thuật (dễ dàng tùy chỉnh để AI tối ưu hóa).
-- `master_report.tex`: Tài liệu kỹ thuật chi tiết theo tiêu chuẩn IAEA/NASA.
+- `config.yaml`: File cấu hình thông số kỹ thuật (dễ dàng tùy chỉnh để AI tối ưu hóa).
+- `master_report.tex (QBM2.pdf)`: Tài liệu kỹ thuật chi tiết theo tiêu chuẩn IAEA/NASA.
 
 ## Tại sao tôi mở mã nguồn?
 Tôi tin rằng các thuật toán tốt nhất được tạo ra khi có sự đóng góp của trí tuệ tập thể. Nếu bạn có ý tưởng tối ưu hóa quy trình (như tinh chỉnh thông số trong `config.json` hoặc cải thiện logic bỏ phiếu), hãy tạo một **Pull Request**.
